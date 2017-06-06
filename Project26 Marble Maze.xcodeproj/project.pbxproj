@@ -15,6 +15,19 @@
 		BD09543B1E718F49002D3F5E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD0954391E718F49002D3F5E /* Main.storyboard */; };
 		BD09543D1E718F49002D3F5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD09543C1E718F49002D3F5E /* Assets.xcassets */; };
 		BD0954401E718F49002D3F5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD09543E1E718F49002D3F5E /* LaunchScreen.storyboard */; };
+		BD0954551E7190CF002D3F5E /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BD0954481E7190CF002D3F5E /* background.jpg */; };
+		BD0954561E7190CF002D3F5E /* background@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BD0954491E7190CF002D3F5E /* background@2x.jpg */; };
+		BD0954571E7190CF002D3F5E /* block.png in Resources */ = {isa = PBXBuildFile; fileRef = BD09544A1E7190CF002D3F5E /* block.png */; };
+		BD0954581E7190CF002D3F5E /* block@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD09544B1E7190CF002D3F5E /* block@2x.png */; };
+		BD0954591E7190CF002D3F5E /* finish.png in Resources */ = {isa = PBXBuildFile; fileRef = BD09544C1E7190CF002D3F5E /* finish.png */; };
+		BD09545A1E7190CF002D3F5E /* finish@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD09544D1E7190CF002D3F5E /* finish@2x.png */; };
+		BD09545B1E7190CF002D3F5E /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD09544E1E7190CF002D3F5E /* level1.txt */; };
+		BD09545C1E7190CF002D3F5E /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = BD09544F1E7190CF002D3F5E /* player.png */; };
+		BD09545D1E7190CF002D3F5E /* player@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD0954501E7190CF002D3F5E /* player@2x.png */; };
+		BD09545E1E7190CF002D3F5E /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = BD0954511E7190CF002D3F5E /* star.png */; };
+		BD09545F1E7190CF002D3F5E /* star@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD0954521E7190CF002D3F5E /* star@2x.png */; };
+		BD0954601E7190CF002D3F5E /* vortex.png in Resources */ = {isa = PBXBuildFile; fileRef = BD0954531E7190CF002D3F5E /* vortex.png */; };
+		BD0954611E7190CF002D3F5E /* vortex@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD0954541E7190CF002D3F5E /* vortex@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +41,19 @@
 		BD09543C1E718F49002D3F5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD09543F1E718F49002D3F5E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD0954411E718F49002D3F5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD0954481E7190CF002D3F5E /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		BD0954491E7190CF002D3F5E /* background@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background@2x.jpg"; sourceTree = "<group>"; };
+		BD09544A1E7190CF002D3F5E /* block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = block.png; sourceTree = "<group>"; };
+		BD09544B1E7190CF002D3F5E /* block@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "block@2x.png"; sourceTree = "<group>"; };
+		BD09544C1E7190CF002D3F5E /* finish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = finish.png; sourceTree = "<group>"; };
+		BD09544D1E7190CF002D3F5E /* finish@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "finish@2x.png"; sourceTree = "<group>"; };
+		BD09544E1E7190CF002D3F5E /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		BD09544F1E7190CF002D3F5E /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
+		BD0954501E7190CF002D3F5E /* player@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player@2x.png"; sourceTree = "<group>"; };
+		BD0954511E7190CF002D3F5E /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		BD0954521E7190CF002D3F5E /* star@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star@2x.png"; sourceTree = "<group>"; };
+		BD0954531E7190CF002D3F5E /* vortex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vortex.png; sourceTree = "<group>"; };
+		BD0954541E7190CF002D3F5E /* vortex@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "vortex@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,10 +93,31 @@
 				BD0954371E718F49002D3F5E /* GameViewController.swift */,
 				BD0954391E718F49002D3F5E /* Main.storyboard */,
 				BD09543C1E718F49002D3F5E /* Assets.xcassets */,
+				BD0954471E7190CF002D3F5E /* Content */,
 				BD09543E1E718F49002D3F5E /* LaunchScreen.storyboard */,
 				BD0954411E718F49002D3F5E /* Info.plist */,
 			);
 			path = "Project26 Marble Maze";
+			sourceTree = "<group>";
+		};
+		BD0954471E7190CF002D3F5E /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				BD0954481E7190CF002D3F5E /* background.jpg */,
+				BD0954491E7190CF002D3F5E /* background@2x.jpg */,
+				BD09544A1E7190CF002D3F5E /* block.png */,
+				BD09544B1E7190CF002D3F5E /* block@2x.png */,
+				BD09544C1E7190CF002D3F5E /* finish.png */,
+				BD09544D1E7190CF002D3F5E /* finish@2x.png */,
+				BD09544E1E7190CF002D3F5E /* level1.txt */,
+				BD09544F1E7190CF002D3F5E /* player.png */,
+				BD0954501E7190CF002D3F5E /* player@2x.png */,
+				BD0954511E7190CF002D3F5E /* star.png */,
+				BD0954521E7190CF002D3F5E /* star@2x.png */,
+				BD0954531E7190CF002D3F5E /* vortex.png */,
+				BD0954541E7190CF002D3F5E /* vortex@2x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,10 +181,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD09543B1E718F49002D3F5E /* Main.storyboard in Resources */,
+				BD09545D1E7190CF002D3F5E /* player@2x.png in Resources */,
+				BD0954611E7190CF002D3F5E /* vortex@2x.png in Resources */,
+				BD09545F1E7190CF002D3F5E /* star@2x.png in Resources */,
+				BD0954601E7190CF002D3F5E /* vortex.png in Resources */,
+				BD09545C1E7190CF002D3F5E /* player.png in Resources */,
+				BD0954581E7190CF002D3F5E /* block@2x.png in Resources */,
+				BD0954591E7190CF002D3F5E /* finish.png in Resources */,
 				BD0954321E718F49002D3F5E /* GameScene.sks in Resources */,
 				BD09543D1E718F49002D3F5E /* Assets.xcassets in Resources */,
+				BD0954561E7190CF002D3F5E /* background@2x.jpg in Resources */,
+				BD0954551E7190CF002D3F5E /* background.jpg in Resources */,
 				BD0954401E718F49002D3F5E /* LaunchScreen.storyboard in Resources */,
 				BD0954341E718F49002D3F5E /* Actions.sks in Resources */,
+				BD09545E1E7190CF002D3F5E /* star.png in Resources */,
+				BD09545B1E7190CF002D3F5E /* level1.txt in Resources */,
+				BD09545A1E7190CF002D3F5E /* finish@2x.png in Resources */,
+				BD0954571E7190CF002D3F5E /* block.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +335,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4T87K25SZU;
 				INFOPLIST_FILE = "Project26 Marble Maze/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.digimarktech.Project26-Marble-Maze";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -288,6 +349,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4T87K25SZU;
 				INFOPLIST_FILE = "Project26 Marble Maze/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.digimarktech.Project26-Marble-Maze";
 				PRODUCT_NAME = "$(TARGET_NAME)";
